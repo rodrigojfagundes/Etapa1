@@ -2,7 +2,7 @@
 
 Olá, tudo joia?
 
-Ficou bem simples o algoritmo, só precissa preencher a variavel
+Ficou bem simples o algoritmo, só precisa preencher a variavel
 
 var valorSolicitado com o valor que queremos fazer o saque
 
