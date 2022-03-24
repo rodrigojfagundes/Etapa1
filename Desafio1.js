@@ -43,6 +43,6 @@ totalCed2 = totalCed2 + 1;
 
 while (valorSolicitado >= ced1){
 valorSolicitado = valorSolicitado - 1;
-totalCed1 = totalCed2 + 1;
+totalCed1 = totalCed1 + 1;
 }
 console.log("total de notas de 100: =>",totalCed100, "\n total de notas de 50: =>",totalCed50,"\n total de notas de 10: =>", totalCed10, "\n total de notas de 5: =>",totalCed5, "\n total de notas de 2: =>",totalCed2, "\n total de notas de 1: =>",totalCed1);
